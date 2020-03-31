@@ -7,4 +7,3 @@ end
 return array
 end
 
-my_each(array) { |n| puts "asdasda." }
